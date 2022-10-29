@@ -1,0 +1,71 @@
+
+/*green */
+.headersection,.footersection { background: #007000 none repeat scroll 0 0;}
+.icon a {  background: #007087 none repeat scroll 0 0;}
+.searchbtn input[type="text"] {
+	background: #007075;
+}
+
+input[type="submit"] {
+	background: #007070 none repeat scroll 0 0;
+}
+input[type="submit"]:hover{background:#007000;color:#000;}
+.navsection {
+	background: none repeat scroll 0 0 #007058;
+}
+.navsection ul li {
+    border-left: 1px solid #fdc662;
+    border-right: 1px solid #007069;
+}
+.samepost h2 a {
+    color: #007000;
+}
+.maincontent ,.sidebar{
+    background: #c9ffc9 none repeat scroll 0 0;}
+ .samepost img {
+    border: 1px solid #35a535;
+}
+.contentsection {
+    border: 1px solid #35a535;
+}
+.samesidebar h2 {
+    background: #35a535 none repeat scroll 0 0;
+    border-bottom: 2px solid #007000;
+color: #ddd;}
+.readmore a {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #fff;
+    border-radius: 3px;
+    color: #35a535;
+}
+
+.readmore a:hover {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #fff;
+    border-radius: 3px;
+    color: #007000;
+}
+.pagination a {
+    background: #35a535 none repeat scroll 0 0;
+    border: 1px solid #007000;}
+.pagination a :hover{
+    background: #007000 none repeat scroll 0 0;
+    border: 1px solid #35a535;}
+
+.samepost h2, .about h2 {
+    border-bottom: 2px solid #007000;
+    color: #35a535;
+    font-size: 25px;
+    margin-bottom: 4px;
+    padding: 10px 10px 10px 0;
+}
+.samepost h2, .about h2 {
+    border-bottom: 2px solid #007000;
+    color: #35a535;
+}
+.relatedpost h2 {
+    background: #35a535 none repeat scroll 0 0;
+    border-bottom: 2px solid #007000 !important;
+    color: #007000 !important;
+}
+
